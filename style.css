@@ -1,0 +1,51 @@
+.container {
+  background-color: #A4BDEC;
+  color: #182743;
+}
+
+.txtmain {
+ font-family: "Arial Black", Gadget, sans-serif;
+
+}
+
+.footer{
+  background-color: #182743;
+}
+
+.txtter {
+ font-size:20px;
+}
+.txtsec {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.head {
+  text-align: center;
+  color: #222222;
+}
+
+.jumbotron {
+  background-color: #182743 !important;
+}
+
+.topmain {
+  border: 2px dotted #182743;
+  margin-top: 2%;
+  background-color: #A4BDEC
+}
+
+img.img-thumbnail {
+  style=width: 304px;
+  height: 350px;
+  border: 3px solid #182743;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+  color:grey;
+  font-size:18px !important;
+}
+
